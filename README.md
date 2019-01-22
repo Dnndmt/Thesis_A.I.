@@ -1,7 +1,7 @@
 # Thesis A.I.
 
 ## Exploring the Effects of Crowd-sourced Financial Information on Stocks with Information Theory
-2019
+Jan - 2019
 
 Code for the MSc. Thesis of the Cognitive Science &amp; Artificial Intelligence program  
 
